@@ -69,7 +69,7 @@ if(strlen($_SESSION['alogin']) == 0) {
         <div class="content-wrapper">
             <div class="container-fluid">
                 <h2 class="page-title">Visitor Details</h2>
-                <a href="visitor_report.php" class="btn btn-success">Download Visitor Report (XLS)</a>
+                <!-- <a href="visitor_report.php" class="btn btn-success">Download Visitor Report (XLS)</a> -->
                 <div class="panel panel-default">
                             <div class="panel-heading">Visitors List</div>
                             <div class="panel-body">

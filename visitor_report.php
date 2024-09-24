@@ -3,7 +3,7 @@ session_start();
 include('includes/config.php');
 
 header("Content-Type: application/xls");
-header("Content-Disposition: attachment; filename=visitor_report.xls");
+header("Content-Disposition: attachment; filename=visitor_report.xlsx");
 header("Pragma: no-cache");
 header("Expires: 0");
 
