@@ -3,7 +3,7 @@
 define('DB_HOST','localhost');
 define('DB_USER','root');
 define('DB_PASS','');
-define('DB_NAME','usermaanegemt');
+define('DB_NAME','ducodeep_usermaanegemt');
 // Establish database connection.
 try
 {
