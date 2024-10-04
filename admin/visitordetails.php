@@ -56,7 +56,7 @@ if(strlen($_SESSION['alogin']) == 0) {
                 <div class="panel panel-default">
                     <div class="panel-heading">Visitors List</div>
                     <div class="panel-body">
-                        <table id="zctb" class="display table table-striped table-bordered table-hover" cellspacing="0" width="100%">
+                        <table class="display table table-striped table-bordered table-hover" cellspacing="0" width="100%">
                             <thead>
                                 <tr>
                                     <th>#</th>
